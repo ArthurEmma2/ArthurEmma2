@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthuremma2&show_icons=true&locale=en" alt="arthuremma2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthuremma2&" alt="arthuremma2" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthuremma2&label=Profile%20views&color=0e75b6&style=flat" alt="arthuremma2" /> </p>
