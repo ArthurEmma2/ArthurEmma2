@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthur Emmanuel</h1>
 <h3 align="center">A web engineer with a keen interest in building high performance web applications focused on simplicity and elegance. Passionate about solving problems using modern technologies</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/professional-programmer-engineer-writing-code_3446-693.jpg?w=740&t=st=1673161978~exp=1673162578~hmac=d5761f060b1f8f1ddf99dcf334ea150edcfbee7ba5b9146929fca3cac207fc6f">
+<img align="center" alt="Coding" width="400" src="https://img.freepik.com/free-vector/professional-programmer-engineer-writing-code_3446-693.jpg?w=740&t=st=1673161978~exp=1673162578~hmac=d5761f060b1f8f1ddf99dcf334ea150edcfbee7ba5b9146929fca3cac207fc6f">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthuremma2" alt="arthuremma2" /></a> </p>
