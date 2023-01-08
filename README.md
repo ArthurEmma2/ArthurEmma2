@@ -3,10 +3,6 @@
 <img align="center" alt="Coding" width="400" src="https://img.freepik.com/free-vector/professional-programmer-engineer-writing-code_3446-693.jpg?w=740&t=st=1673161978~exp=1673162578~hmac=d5761f060b1f8f1ddf99dcf334ea150edcfbee7ba5b9146929fca3cac207fc6f">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthuremma2" alt="arthuremma2" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/noworriesdev" target="blank"><img src="https://img.shields.io/twitter/follow/noworriesdev?logo=twitter&style=for-the-badge" alt="noworriesdev" /></a> </p>
-
 - 🔭 I’m currently working on [Kwabees](https://www.kwabees.com/)
 
 - 👨‍💻 All of my projects are available at [https://arthur-emmanuel.netlify.app/](https://arthur-emmanuel.netlify.app/)
