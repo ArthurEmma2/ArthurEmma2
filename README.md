@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **emmanuel2002arthur@gmail.com**
 
-<img src ="https://github.com/ayush2390/Assets/blob/main/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863-removebg-p.png?raw=true" alt='logo' />
+<img align="left" src ="https://github.com/ayush2390/Assets/blob/main/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863-removebg-p.png?raw=true" alt='logo' />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
