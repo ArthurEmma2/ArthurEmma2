@@ -7,7 +7,7 @@
 
 <img align="right" width="500px" src ="https://github.com/ayush2390/Assets/blob/main/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863-removebg-p.png?raw=true" alt='logo' />
 
-- 🔭 I’m currently working on [Kwabees](https://www.kwabees.com/).
+- 🔭 I’m currently working on [Kwabees](https://www.kwabees.com/) and [Fuel Ecosystem](https://fuelecosystem.netlify.app/).
 
 - 👨‍💻 All of my projects are available at [https://arthur-emmanuel.netlify.app/](https://arthur-emmanuel.netlify.app/)
 
