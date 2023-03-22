@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React JS, Tailwindcss, Typescript**
 
-- 📫 How to reach me **emmanuel2002arthur@gmail.com**
+- 📫 How to reach me **emmanuel2002arthur@gmail.com** .
 
 
 
