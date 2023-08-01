@@ -1,7 +1,7 @@
 <h1 align="center">Howdy👋, I'm Arthur Emmanuel</h1>
 <h3 align="left" width="730px"> Web engineer with a keen interest in building high performance web applications focused on simplicity and elegance. Passionate about solving problems using modern technologies. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthuremma2&label=Profile%20views&color=0e75b6&style=flat" alt="arthuremma2" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=arthuremma2&label=Profile%20views&color=0e75b6&style=flat" alt="arthuremma2" /> </p>
 
 <p align="left"> <a href="https://twitter.com/noworriesdev" target="blank"><img src="https://img.shields.io/twitter/follow/noworriesdev?logo=twitter&style=for-the-badge" alt="noworriesdev" /></a> </p>
 
