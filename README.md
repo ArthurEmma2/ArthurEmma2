@@ -1,5 +1,5 @@
 <h1 align="center">Howdy👋, I'm Arthur Emmanuel</h1>
-<h3 align="left" width="730px"> Front-end engineer with a keen interest in building high performance web applications focused on simplicity and elegance. Passionate about solving problems using modern technologies. </h3>
+<h3 align="left" width="730px"> I'm an adept developer, specializing in React frontend development and blockchain technologies. My expertise includes Solidity, Ethereum, Near, and Aptos, enabling me to create smooth user experiences through smart contract integration. My passion lies in pioneering DeFi, payment, and DApp development, and I'm committed to staying ahead in the ever-evolving blockchain landscape. Let's connect and collaborate on driving innovation together.  </h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=arthuremma2&label=Profile%20views&color=0e75b6&style=flat" alt="arthuremma2" /> </p>
 
