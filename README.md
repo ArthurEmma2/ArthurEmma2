@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arthur-emmanuel.netlify.app/](https://arthur-emmanuel.netlify.app/)
 
-- 💬 Ask me about **React JS,  Tailwindcss, Typescript**
+- 💬 Ask me about **Web 3.0,  Tailwindcss, Typescript, Next JS**
 
 - 📫 How to reach me **emmanuel2002arthur@gmail.com** .
 
