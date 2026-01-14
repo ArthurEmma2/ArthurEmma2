@@ -1,23 +1,33 @@
 <h1 align="center">Howdy👋, I'm Arthur Emmanuel</h1>
-<p align="left" width="730px"> An adept developer, specializing in React frontend development and blockchain technologies. My expertise includes Solidity, Ethereum, Near, Solana and Aptos, enabling me to create smooth user experiences through smart contract integration. My passion lies in pioneering DeFi, Payment, NFT, SocialFi and DApp development, and I'm committed to staying ahead in the ever-evolving blockchain landscape. Let's connect and collaborate on driving innovation together.  </p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=arthuremma2&label=Profile%20views&color=0e75b6&style=flat" alt="arthuremma2" /> </p>
+<p align="left" width="730px">
+A frontend engineer focused on React and blockchain-powered applications. I work across Solidity, Ethereum, Near, Solana, and Aptos to build fast, intuitive interfaces backed by secure smart contracts. I am a 4x hackathon winner with a strong track record of shipping production-ready DeFi, payments, NFT, SocialFi, and DApp solutions. I enjoy solving real problems, moving fast, and pushing ideas from concept to usable products in the evolving Web3 space.
+</p>
 
-<p align="left"> <a href="https://twitter.com/noworriesdev" target="blank"><img src="https://img.shields.io/twitter/follow/noworriesdev?logo=twitter&style=for-the-badge" alt="noworriesdev" /></a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arthuremma2&label=Profile%20views&color=0e75b6&style=flat" alt="arthuremma2" />
+</p>
 
+<p align="left">
+  <a href="https://twitter.com/noworriesdev" target="blank">
+    <img src="https://img.shields.io/twitter/follow/noworriesdev?logo=twitter&style=for-the-badge" alt="noworriesdev" />
+  </a>
+</p>
 
-
-
-- 💬 Ask me about **Web 3.0,  Tailwindcss, Typescript, Next JS**
-
-- 📫 How to reach me **emmanuel2002arthur@gmail.com** .
-
-
+<ul>
+  <li>💬 Ask me about <strong>Web3, Tailwind CSS, TypeScript, Next.js</strong></li>
+  <li>🏆 4x Hackathon Winner with real-world shipping experience</li>
+  <li>📫 Reach me at <strong>emmanuel2002arthur@gmail.com</strong></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/noworriesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noworriesdev" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arthur-emmanuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthur-emmanuel-06b7b9210/" height="30" width="40" /></a>
+  <a href="https://twitter.com/noworriesdev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noworriesdev" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-emmanuel/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-emmanuel" height="30" width="40" />
+  </a>
 </p>
 
 
