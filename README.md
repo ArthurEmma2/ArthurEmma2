@@ -1,36 +1,135 @@
-<h1 align="center">Howdy👋, I'm Arthur Emmanuel</h1>
+<div align="center">
 
-<p align="left" width="730px">
-A frontend engineer focused on React and blockchain-powered applications. I work across Solidity, Ethereum, Near, Solana, and Aptos to build fast, intuitive interfaces backed by secure smart contracts. I am a 4x hackathon winner with a strong track record of shipping production-ready DeFi, payments, NFT, SocialFi, and DApp solutions. I enjoy solving real problems, moving fast, and pushing ideas from concept to usable products in the evolving Web3 space.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Emmanuel%20Arthur&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Web3%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arthuremma2&label=Profile%20views&color=0e75b6&style=flat" alt="arthuremma2" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%2B+Web3+Engineer;4x+Hackathon+Winner;Building+DeFi+%7C+NFTs+%7C+SocialFi;Concept+%E2%86%92+Prototype+%E2%86%92+Production" alt="Typing SVG" />
+</a>
 
-<p align="left">
-  <a href="https://twitter.com/noworriesdev" target="blank">
-    <img src="https://img.shields.io/twitter/follow/noworriesdev?logo=twitter&style=for-the-badge" alt="noworriesdev" />
-  </a>
-</p>
+<br/>
 
-<ul>
-  <li>💬 Ask me about <strong>Web3, Tailwind CSS, TypeScript, Next.js</strong></li>
-  <li>🏆 4x Hackathon Winner with real-world shipping experience</li>
-  <li>📫 Reach me at <strong>emmanuel2002arthur@gmail.com</strong></li>
-</ul>
+[![Email](https://img.shields.io/badge/Email-emmanuel2002arthur%40gmail.com-D946EF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuel2002arthur@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-noworriesdev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noworriesdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthur--emmanuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-emmanuel/)
+![Profile Views](https://komarev.com/ghpvc/?username=arthuremma2&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/noworriesdev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noworriesdev" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-emmanuel/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-emmanuel" height="30" width="40" />
-  </a>
-</p>
+</div>
 
+---
 
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+```ts
+const arthur = {
+  role:       "Frontend Engineer × Web3 Builder",
+  focus:      ["React", "Next.js", "Smart Contracts", "DeFi"],
+  chains:     ["Ethereum", "Solana", "Near", "Aptos"],
+  superpower: "Concept → Prototype → Production",
+  wins:       "4x Hackathon Winner",
+  building:   ["DeFi Dashboards", "NFT Platforms", "SocialFi", "DApps"],
+  ask_me:     "Anything Web3, React, Tailwind, TypeScript",
+};
+```
+
+---
+
+## Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0070?style=for-the-badge&logo=framer&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+
+### Web3 & Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![NEAR](https://img.shields.io/badge/NEAR-000000?style=for-the-badge&logo=near&logoColor=white)
+![Aptos](https://img.shields.io/badge/Aptos-00B4CC?style=for-the-badge&logo=aptos&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-FFC517?style=for-the-badge&logo=ethereum&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-7B3FE4?style=for-the-badge&logo=ethereum&logoColor=white)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-F05032?style=for-the-badge&logo=foundry&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-6746D7?style=for-the-badge&logo=thegraph&logoColor=white)
+
+### Tools & Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## What I Build
+
+<div align="center">
+
+| DeFi Dashboards | Crypto Payments | NFT Marketplaces |
+|:-:|:-:|:-:|
+| Real-time portfolio tracking, yield aggregators, protocol analytics | Seamless on-chain payment flows with multi-wallet support | Full-stack NFT platforms with minting, trading & royalties |
+| **SocialFi Platforms** | **Smart Contract UIs** | **High-Perf DApps** |
+| On-chain identity, token-gated communities, creator economies | Clean ABIs → intuitive interfaces, contract dashboards | Sub-second load times, optimistic updates, multi-chain |
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthuremma2&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuremma2&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arthuremma2&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="500"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthuremma2&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arthuremma2&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthuremma2/arthuremma2/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthuremma2/arthuremma2/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arthuremma2/arthuremma2/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+**"Ship fast. Build secure. Stay onchain."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
