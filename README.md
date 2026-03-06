@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Emmanuel%20Arthur&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Web3%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arthur%20Emmanuel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Web3%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%2B+Web3+Engineer;4x+Hackathon+Winner;Building+DeFi+%7C+NFTs+%7C+SocialFi;Concept+%E2%86%92+Prototype+%E2%86%92+Production" alt="Typing SVG" />
@@ -21,13 +21,13 @@
 
 ```ts
 const arthur = {
-  role:       "Frontend Engineer × Web3 Builder",
-  focus:      ["React", "Next.js", "Smart Contracts", "DeFi"],
+  role:       "Frontend Engineer × Web3 Builder × SDK Author",
+  focus:      ["React", "Next.js", "Smart Contracts", "DeFi", "SDKs", "Dev Tooling"],
   chains:     ["Ethereum", "Solana", "Near", "Aptos"],
   superpower: "Concept → Prototype → Production",
   wins:       "4x Hackathon Winner",
-  building:   ["DeFi Dashboards", "NFT Platforms", "SocialFi", "DApps"],
-  ask_me:     "Anything Web3, React, Tailwind, TypeScript",
+  building:   ["DeFi Dashboards", "NFT Platforms", "SocialFi", "DApps", "SDKs", "CLI Tools", "Dev Libraries"],
+  ask_me:     "Web3, React, Tailwind, TypeScript, SDK Design, Onchain Tooling",
 };
 ```
 
@@ -73,6 +73,17 @@ const arthur = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### SDK & Tooling
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollupdotjs&logoColor=white)
+![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black)
+![Tsup](https://img.shields.io/badge/tsup-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Changesets](https://img.shields.io/badge/Changesets-000000?style=for-the-badge&logo=github&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
 ---
 
 ## What I Build
@@ -84,25 +95,15 @@ const arthur = {
 | Real-time portfolio tracking, yield aggregators, protocol analytics | Seamless on-chain payment flows with multi-wallet support | Full-stack NFT platforms with minting, trading & royalties |
 | **SocialFi Platforms** | **Smart Contract UIs** | **High-Perf DApps** |
 | On-chain identity, token-gated communities, creator economies | Clean ABIs → intuitive interfaces, contract dashboards | Sub-second load times, optimistic updates, multi-chain |
+| **SDKs & Libraries** | **Developer Tooling** | **CLI Tools** |
+| Type-safe SDKs for Web3 protocols, wallet adapters, onchain data hooks | Build systems, scaffolding tools, contract interaction utilities | Command-line tools that simplify Web3 developer workflows |
 
 </div>
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthuremma2&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuremma2&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arthuremma2&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="500"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthuremma2&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" width="100%"/>
-</div>
 
 ---
 
