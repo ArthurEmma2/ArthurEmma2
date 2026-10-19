@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arthur%20Emmanuel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Web3%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arthur%20Emmanuel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web3%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%2B+Web3+Engineer;4x+Hackathon+Winner;Building+DeFi+%7C+NFTs+%7C+SocialFi;Concept+%E2%86%92+Prototype+%E2%86%92+Production" alt="Typing SVG" />
@@ -21,9 +21,9 @@
 
 ```ts
 const arthur = {
-  role:       "Frontend Engineer × Web3 Builder × SDK Author",
+  role:       "Software Engineer × Web3 Builder × SDK Author",
   focus:      ["React", "Next.js", "Smart Contracts", "DeFi", "SDKs", "Dev Tooling"],
-  chains:     ["Ethereum", "Solana", "Near", "Aptos"],
+  chains:     ["Ethereum", "Solana", "Near", "Aptos", "Sui"],
   superpower: "Concept → Prototype → Production",
   wins:       "4x Hackathon Winner",
   building:   ["DeFi Dashboards", "NFT Platforms", "SocialFi", "DApps", "SDKs", "CLI Tools", "Dev Libraries"],
