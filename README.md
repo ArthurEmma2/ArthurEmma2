@@ -31,22 +31,6 @@ const arthur = {
 };
 ```
 
----
-
-
-## What I Build
-
-<div align="center">
-
-| DeFi Dashboards | Crypto Payments | NFT Marketplaces |
-|:-:|:-:|:-:|
-| Real-time portfolio tracking, yield aggregators, protocol analytics | Seamless on-chain payment flows with multi-wallet support | Full-stack NFT platforms with minting, trading & royalties |
-| **SocialFi Platforms** | **Smart Contract UIs** | **High-Perf DApps** |
-| On-chain identity, token-gated communities, creator economies | Clean ABIs → intuitive interfaces, contract dashboards | Sub-second load times, optimistic updates, multi-chain |
-| **SDKs & Libraries** | **Developer Tooling** | **CLI Tools** |
-| Type-safe SDKs for Web3 protocols, wallet adapters, onchain data hooks | Build systems, scaffolding tools, contract interaction utilities | Command-line tools that simplify Web3 developer workflows |
-
-</div>
 
 ---
 
